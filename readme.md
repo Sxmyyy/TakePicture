@@ -16,4 +16,4 @@ Python script to take a picture with your computer's default webcam. Take a pict
 
 # Enjoy
 
-_Script was wrote by Fiordaliso Samy_
+_Script was wrote by Sxmyyy_
